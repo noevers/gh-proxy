@@ -1,6 +1,8 @@
 # gh-proxy
 
-## 来源 hunshcn/gh-proxy, 感谢作者的无私奉献
+## 来源 
+
+hunshcn/gh-proxy, 感谢作者的无私奉献
 
 ## 简介
 
