@@ -2,7 +2,7 @@
 
 ## 来源 
 
-hunshcn/gh-proxy, 感谢作者的无私奉献
+hunshcn/gh-proxy, 感谢作者的奉献
 
 ## 简介
 
@@ -108,15 +108,8 @@ python版本默认走服务器（2021.3.27更新）
 * 2020.03.23 新增了clone的支持
 * 2020.03.22 初始版本
 
-## 链接
-
-[我的博客](https://hunsh.net)
 
 ## 参考
 
 [jsproxy](https://github.com/EtherDream/jsproxy/)
 
-## 捐赠
-
-![wx.png](https://img.maocdn.cn/img/2021/04/24/image.md.png)
-![ali.png](https://www.helloimg.com/images/2021/04/24/BK9vmb.md.png)
